@@ -32,3 +32,8 @@
 <a href="https://www.atlassian.com/software/jira"><a href="https://www.atlassian.com/software/jira"><img src="technologies/jira.png" alt="Jira" width="40" height="40"/></a>
 <a href="https://www.atlassian.com/software/confluence"><img src="technologies/confluence.png" alt="Confluence" width="40" height="40"/></a>
 </div>
+
+## Cтатистика
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obrams&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obrams&theme=tokyonight) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obrams&theme=tokyonight)

@@ -24,9 +24,9 @@
 [<img src='other/gmail.png' alt='gmail' height='30'>](mailto:nickitarull@gmail.com) 
 
 ## 🐊 Тестовые проекты
-- [Web tests](https://github.com/Obrams/qa_guru_project_API)
-- [API tests](https://github.com/Obrams/qa_guru_project_UI)
-
+- [Web tests](https://github.com/Obrams/qa_guru_project_UI)
+- [API tests](https://github.com/Obrams/qa_guru_project_API)
+- 
 ## 🛠️ Технологии, которыми владею
 <div>
 <a href="https://www.python.org/"><img src="technologies/python.png" alt="Python" width="40" height="40"/></a>

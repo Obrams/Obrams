@@ -15,39 +15,13 @@
 - Есть опыт автоматизации на языке программирования C#.
 - На текущее время занимаюсь изучением автоматизации тестирования на языке Python.
 ## 🧭 Контактные данные
-[<img src='other/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/nikita-ozerov/)
-[<img src='other/tg.png' alt='telegram' height='30'>](https://t.me/Obrams)
-[<img src='other/gmail.png' alt='gmail' height='30'>](mailto:nickitarull@gmail.com)
- 
+[<img src='other/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/nikita-ozerov/) [<img src='other/tg.png' alt='telegram' height='30'>](https://t.me/Obrams) [<img src='other/gmail.png' alt='gmail' height='30'>](mailto:nickitarull@gmail.com) 
 ## 🐊 Тестовые проекты
 - [Web tests](https://github.com/Obrams/qa_guru_project_UI)
 - [API tests](https://github.com/Obrams/qa_guru_project_API)
 - 
 ## 🛠️ Технологии, которыми владею
-<div>
-<a href="https://www.python.org/"><img src="technologies/python.png" alt="Python" width="40" height="40"/></a>
-<a href="https://docs.pytest.org/en/"><img src="technologies/pytest.png" alt="Pytest" width="40" height="40"/></a>
-<a href="https://www.jetbrains.com/pycharm/"><img src="technologies/pycharm.png" alt="PyCharm" width="40" height="40"/></a>
-<a href="https://kotlinlang.org/"><img src="technologies/kotlin.png" alt="Kotlin" width="40" height="40"/></a>
-<a href="https://gradle.org/"><img src="technologies/gradle.png" alt="Gradle" width="40" height="40"/></a>
-<a href="https://github.com/yashaka/selene/"><img src="technologies/selene.png" alt="Selene" width="40" height="40"/></a>
-<a href="https://www.selenium.dev/"><img src="technologies/selenium.png" alt="Selenium" width="40" height="40"/></a>
-<a href="https://www.jenkins.io/"><img src="technologies/jenkins.png" alt="Jenkins" width="40" height="40"/></a>
-<a href="https://allurereport.org/"><img src="technologies/allure_report.png" alt="Allure" width="40" height="40"/></a>
-<a href="https://qameta.io/"><img src="technologies/allure_testops.png" alt="AllureTestOps" width="40" height="40"/></a>
-<a href="https://aerokube.com/selenoid/"><img src="technologies/selenoid.png" alt="Selenoid" width="40" height="40"/></a>
-<a href="https://www.postman.com/"><img src="technologies/postman.png" alt="Postman" width="40" height="40"/></a>
-<a href="https://pypi.org/project/requests/"><img src="technologies/requests.png" alt="Requests" width="40" height="40"/></a>
-<a href="https://www.browserstack.com/"><img src="technologies/browserstack.png" alt="Browserstack" width="40" height="40"/></a>
-<a href="https://www.atlassian.com/software/jira"><img src="technologies/jira.png" alt="Jira" width="40" height="40"/></a>
-<a href="https://www.atlassian.com/software/confluence"><img src="technologies/confluence.png" alt="Confluence" width="40" height="40"/></a>
-</div>
-
-**Язык программирования**: Kotlin  
-**Автоматизация сборки**: Gradle
-
+[<img src="technologies/python.png" alt="Python" width="40" height="40"/>](https://www.python.org/) [<img src="technologies/pytest.png" alt="Pytest" width="40" height="40"/>](https://docs.pytest.org/en/) [<img src="technologies/pycharm.png" alt="PyCharm" width="40" height="40"/>](https://www.jetbrains.com/pycharm/) [<img src="technologies/kotlin.png" alt="Kotlin" width="40" height="40"/>](https://kotlinlang.org/) [<img src="technologies/gradle.png" alt="Gradle" width="40" height="40"/>](https://gradle.org/) [<img src="technologies/selene.png" alt="Selene" width="40" height="40"/>](https://github.com/yashaka/selene/) [<img src="technologies/selenium.png" alt="Selenium" width="40" height="40"/>](https://www.selenium.dev/) [<img src="technologies/jenkins.png" alt="Jenkins" width="40" height="40"/>](https://www.jenkins.io/) [<img src="technologies/allure_report.png" alt="Allure" width="40" height="40"/>](https://allurereport.org/) [<img src="technologies/allure_testops.png" alt="AllureTestOps" width="40" height="40"/>](https://qameta.io/) [<img src="technologies/selenoid.png" alt="Selenoid" width="40" height="40"/>](https://aerokube.com/selenoid/) [<img src="technologies/postman.png" alt="Postman" width="40" height="40"/>](https://www.postman.com/) [<img src="technologies/requests.png" alt="Requests" width="40" height="40"/>](https://pypi.org/project/requests/) [<img src="technologies/browserstack.png" alt="Browserstack" width="40" height="40"/>](https://www.browserstack.com/) [<img src="technologies/jira.png" alt="Jira" width="40" height="40"/>](https://www.atlassian.com/software/jira) [<img src="technologies/confluence.png" alt="Confluence" width="40" height="40"/>](https://www.atlassian.com/software/confluence)
 ## Cтатистика
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obrams&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obrams&theme=tokyonight)
- 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obrams&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obrams&theme=tokyonight) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obrams&theme=tokyonight)

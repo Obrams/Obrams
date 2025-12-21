@@ -1,30 +1,51 @@
 # Всем привет! 👋
+
 ## 👩🏻‍💻 Обо мне
-- Инженер по тестированию с опытом 7+ лет.
-- Руководитель группы тестирования.
-- Профессионал, специализирующийся на функциональном, интеграционном, API, мобильном тестировании.
-- Хорошая техническая база и аналитические способности, большой опыт детального анализа логов.
-- Умеею тестировать и уточнять требования.
-- Имею опыт создания тестовой документации различной детализации.
-- Различные методы проектирования тестов.
-- Высокие навыки в разных видах коммуникации с командами разного размера;
-- Опыт управления командой от 14 человек от 3 лет.
-- Agile проекты (легко переключаться между задачами и адаптироваться к постоянным изменениям).
-- Опыт работы в корпоративной системе (банковская система,ecom).
-- Выполнение обязанностей релиз-менеджера.
-- Есть опыт автоматизации на языке программирования Kotlin,Python.
-- На текущее время занимаюсь изучением автоматизации тестирования на языке Python.
+
+- Инженер по тестированию с опытом 7+ лет в различных аспектах QA
+- Опыт руководства группой тестирования (до 14 человек, 3+ года)
+- Специализация: функциональное, интеграционное, API, мобильное тестирование
+- Сильная техническая база и аналитические навыки, большой опыт анализа логов и трассировки ошибок
+- Опыт создания тестовой документации различной детализации (от чек-листов до подробных test cases)
+- Различные методы проектирования тестов (BBT, PBT, ET и другие)
+- Коммуникативный профессионал с навыками работы в командах разного размера
+- Гибкий подход к Agile процессам (быстрое переключение между задачами, адаптация к изменениям)
+- Опыт работы в корпоративных системах (банковская система, e-commerce)
+- Опыт выполнения обязанностей релиз-менеджера
+- Практическое применение Python и Kotlin для автоматизации тестирования
+
 ## 🧭 Контактные данные
-[<img src='other/linkedin.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/nikita-ozerov/) [<img src='other/tg.png' alt='telegram' height='30'>](https://t.me/Obrams) [<img src='other/gmail.png' alt='gmail' height='30'>](mailto:nickitarull@gmail.com) 
-## 🐊 Тестовые проекты
-- [Web tests](https://github.com/Obrams/qa_guru_project_UI)
-- [API tests](https://github.com/Obrams/qa_guru_project_API)
-- [Monitoring+Clickhouse](https://github.com/Obrams/clickhouse-grafana)
-- [mesh-network-reliability-tester](https://github.com/Obrams/mesh-network-reliability-tester)
-- [playwrite_ui_test](https://github.com/Obrams/playwrite_ui_test)
-- [qa-kotlin-framework](https://github.com/Obrams/qa-kotlin-framework)
-## 🛠️ Технологии, которыми владею
-[<img src="technologies/python.png" alt="Python" width="40" height="40"/>](https://www.python.org/) [<img src="technologies/pytest.png" alt="Pytest" width="40" height="40"/>](https://docs.pytest.org/en/) [<img src="technologies/pycharm.png" alt="PyCharm" width="40" height="40"/>](https://www.jetbrains.com/pycharm/) [<img src="technologies/kotlin.jpeg" alt="Kotlin" width="40" height="40"/>](https://kotlinlang.org/) [<img src="technologies/gradle.png" alt="Gradle" width="40" height="40"/>](https://gradle.org/) [<img src="technologies/selene.png" alt="Selene" width="40" height="40"/>](https://github.com/yashaka/selene/) [<img src="technologies/selenium.png" alt="Selenium" width="40" height="40"/>](https://www.selenium.dev/) [<img src="technologies/jenkins.png" alt="Jenkins" width="40" height="40"/>](https://www.jenkins.io/) [<img src="technologies/allure_report.png" alt="Allure" width="40" height="40"/>](https://allurereport.org/) [<img src="technologies/allure_testops.png" alt="AllureTestOps" width="40" height="40"/>](https://qameta.io/) [<img src="technologies/selenoid.png" alt="Selenoid" width="40" height="40"/>](https://aerokube.com/selenoid/) [<img src="technologies/postman.png" alt="Postman" width="40" height="40"/>](https://www.postman.com/) [<img src="technologies/requests.png" alt="Requests" width="40" height="40"/>](https://pypi.org/project/requests/) [<img src="technologies/browserstack.png" alt="Browserstack" width="40" height="40"/>](https://www.browserstack.com/) [<img src="technologies/jira.png" alt="Jira" width="40" height="40"/>](https://www.atlassian.com/software/jira) [<img src="technologies/confluence.png" alt="Confluence" width="40" height="40"/>](https://www.atlassian.com/software/confluence)
-## Cтатистика
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=obrams&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=obrams&theme=tokyonight) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=obrams&theme=tokyonight)
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-ozerov/)
+[![telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Obrams)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nickitarull@gmail.com)
+
+## 🐊 Проекты
+
+- **[Web tests](https://github.com/Obrams/qa_guru_project_UI)** — UI автоматизация на Python с Selene/Selenium
+- **[API tests](https://github.com/Obrams/qa_guru_project_API)** — REST API тестирование на Python с Requests/Pytest
+- **[Kotlin QA Framework](https://github.com/Obrams/qa-kotlin-framework)** — Framework для автоматизации на Kotlin
+- **[Playwright UI Tests](https://github.com/Obrams/playwrite_ui_test)** — Современный UI тестинг с Playwright
+- **[Mesh Network Reliability Tester](https://github.com/Obrams/mesh-network-reliability-tester)** — Мониторинг и тестирование mesh сетей
+- **[ClickHouse + Grafana](https://github.com/Obrams/clickhouse-grafana)** — Аналитика и мониторинг
+
+## 🛠️ Технологии и инструменты
+
+**Языки программирования:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Фреймворки и инструменты тестирования:**
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=microsoft&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Инструменты и платформы:**
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-25B7D6?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)

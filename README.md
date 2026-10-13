@@ -20,7 +20,8 @@
 ## 🐊 Projects
 
 - **[Kotlin QA Framework](https://github.com/Obrams/qa-kotlin-framework)** — test automation framework in Kotlin
-- **[API tests](https://github.com/Obrams/qa_guru_project_API)** — REST API testing in Python with Requests/Pytest
+- **[API Testing Framework](https://github.com/Obrams/api_test_python)** — REST, GraphQL, gRPC, Kafka and PostgreSQL testing in Python (pytest, Pydantic, Allure)
+- **[API tests](https://github.com/Obrams/qa_guru_project_API)** — REST API tests for reqres.in in Python with Requests/Pytest
 - **[Web tests](https://github.com/Obrams/qa_guru_project_UI)** — UI automation in Python with Selene/Selenium
 - **[Playwright UI Tests](https://github.com/Obrams/playwrite_ui_test)** — modern UI testing with Playwright
 - **[Mesh Network Reliability Tester](https://github.com/Obrams/mesh-network-reliability-tester)** — monitoring and reliability testing of mesh networks

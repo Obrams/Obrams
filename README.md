@@ -1,10 +1,11 @@
 # Hi, I'm Nikita 👋
 
-**QA Lead / Head of QA** — Kotlin & Java test automation, API & integration testing, contract testing, CI/CD quality gates.
+**QA Lead / Head of QA** — Kotlin & Java test automation, API, integration & performance testing, contract testing, CI/CD quality gates.
 
 ## 👨🏻‍💻 About me
 
 - 7+ years in QA across banking, government and e-commerce projects
+- Currently leading QA for a federal-scale banking integration platform (millions of messages, up to 3M documents per day); built performance testing from scratch: JMeter, production-based load profiles, custom Java test data generators, Grafana
 - Led QA for 14 engineers across 8 product teams: unified testing processes, release cycles and quality metrics (Time to Market, Bug Leakage)
 - Built a shared Kotlin test automation framework from scratch (Gradle, JUnit 5, Spring Boot, OpenFeign, Allure) — regression went from ~4 hours of manual checks to a ~10-minute CI/CD run
 - Contract testing with Schemathesis (OpenAPI), e2e/integration testing via Kafka and databases, canary releases, Docker-based dynamic environments
@@ -42,6 +43,7 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=microsoft&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 **Infrastructure & platforms:**

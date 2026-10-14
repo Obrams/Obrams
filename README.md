@@ -20,13 +20,11 @@
 
 ## 🐊 Projects
 
-- **[Kotlin QA Framework](https://github.com/Obrams/qa-kotlin-framework)** — test automation framework in Kotlin
+- **[Kotlin QA Framework](https://github.com/Obrams/qa-kotlin-framework)** — Kotlin test automation framework: typed API client, Playwright Page Objects, JUnit 5 parallel runs, Allure, Docker, GitHub Actions
 - **[API Testing Framework](https://github.com/Obrams/api_test_python)** — REST, GraphQL, gRPC, Kafka and PostgreSQL testing in Python (pytest, Pydantic, Allure)
-- **[API tests](https://github.com/Obrams/qa_guru_project_API)** — REST API tests for reqres.in in Python with Requests/Pytest
-- **[Web tests](https://github.com/Obrams/qa_guru_project_UI)** — UI automation in Python with Selene/Selenium
-- **[Playwright UI Tests](https://github.com/Obrams/playwrite_ui_test)** — modern UI testing with Playwright
-- **[Mesh Network Reliability Tester](https://github.com/Obrams/mesh-network-reliability-tester)** — monitoring and reliability testing of mesh networks
-- **[ClickHouse + Grafana](https://github.com/Obrams/clickhouse-grafana)** — analytics and monitoring
+- **[ClickHouse + Grafana](https://github.com/Obrams/clickhouse-grafana)** — analytics and monitoring stack: synthetic events, ClickHouse, Grafana dashboards and alerts
+- **[Mesh Network Reliability Tester](https://github.com/Obrams/mesh-network-reliability-tester)** — reliability testing and monitoring of mesh networks
+- **[Playwright UI Tests](https://github.com/Obrams/playwright-ui-tests)** — UI automation with Playwright and Pytest
 
 ## 🛠️ Tech stack
 
